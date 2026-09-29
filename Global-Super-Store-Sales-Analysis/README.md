@@ -40,6 +40,20 @@ The dataset contains information about:
 - Shipping
 
 ---
+## Excel Workbook Contents
+
+The complete analysis is contained in a single Excel workbook: `Global_Superstore_Sales_Dashboard.xlsx`.
+
+The workbook includes:
+
+* **Dataset** – Contains the Global Super Store data used for the analysis, including order, customer, product, sales, profit, shipping, and regional information.
+* **Dashboard** – Final interactive dashboard containing KPIs, charts, and slicers for analyzing overall business performance.
+* **Pivot Tables** – Supporting PivotTables used to summarize and analyze the data for different business metrics.
+* **Supporting Charts** – Individual charts created during the analysis and used to build the final dashboard.
+
+> **Note:** The Excel workbook is relatively large because the dataset, PivotTables, supporting charts, and interactive dashboard are all included in a single file.
+
+----
 
 ## Dashboard Features
 
